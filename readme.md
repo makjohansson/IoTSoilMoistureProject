@@ -42,9 +42,8 @@ The project started with the research of different types of moisture sensors. Ma
     - Python script running TTN api collecting and sending data to sensors
 
 ## Result
-**Video demonstration** on [YouTube](https://youtu.be/RBFp-bJJFYI) 
-
-Music by Martin "Bubba" Johansson
+**Video demonstration** on [YouTube](https://youtu.be/RBFp-bJJFYI) <br>
+Music by Martin "Bubba" Johansson<br>
 Camera and editing by Therese Johansson
 
 **The state of this project at the end the course:**
