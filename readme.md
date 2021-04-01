@@ -46,4 +46,4 @@ Music by Martin "Bubba" Johansson
 Camera and editing by Therese Johansson
 
 **The state of this project at the end the course:**
-* Two working sensors place in a greenhouse sending moisture values 2,4,6,8 or 10 times in twenty-four hours, depending on the end-users preferences (see figure ![4](https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1547.jpeg raw=true) and 5).
+* Two working sensors place in a greenhouse sending moisture values 2,4,6,8 or 10 times in twenty-four hours, depending on the end-users preferences (see figure ![4](https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1547.jpeg?raw=true) and 5).
