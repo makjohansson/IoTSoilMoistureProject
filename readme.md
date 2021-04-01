@@ -5,6 +5,7 @@
 * [Hardware](#hardware)
 * [Software](#software)
 * [Result](#result)
+* [Figures](#figures)
 
 ## Background
 Last autumn Kalmar Kommun and Fredrik Ahlgren held a presentation over different IoT projects. One project presented was a project that would with the help of IoT solve some problems Kalmar Kommun has when it comes to the watering of plants and gardens around the county. Now they have to drive large distances to check if water is needed in the plants. If this problem is solved it would make Kalmar Kommun able to use their stab more effectively and also the cost for the fuel would go down because of the removal of unnecessary trips. Lnu and Kalmar Energi provide communication over LoRa in Kalmar. Kalmar Kommun has the ambition to use the LoRa network in their work to become a smarter city. Therefore the LoRa technology was used in this project.
@@ -46,4 +47,8 @@ Music by Martin "Bubba" Johansson
 Camera and editing by Therese Johansson
 
 **The state of this project at the end the course:**
-* Two working sensors place in a greenhouse sending moisture values 2,4,6,8 or 10 times in twenty-four hours, depending on the end-users preferences (see figure ![4](https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1547.jpeg?raw=true) and 5).
+* Two working sensors place in a greenhouse sending moisture values 2,4,6,8 or 10 times in twenty-four hours, depending on the end-users preferences (see  ![figure 4](#figure_4)
+
+## Figures
+
+## figure 4 (https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1547.jpeg?raw=true) and 5).
