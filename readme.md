@@ -48,15 +48,43 @@ Camera and editing by Therese Johansson
 
 **The state of this project at the end the course:**
 * Two working sensors place in a greenhouse sending moisture values 2,4,6,8 or 10 times in twenty-four hours, depending on the end-users preferences (see figure 4 and 5)
+* A threshold value for when a specific sensor should alert the end-user can be set in the application.
+* The sensors communicate with LoRa technology.
+* Secure data transfer between sensor and application is established
+* All data received from the sensors is saved to a JSON file for future use, visualizing sensor value over a long period.
 
 ## Figures
+![alt text](https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1522.jpeg?raw=true)
+<div align=center> 
+
+**Figure 1:** Testing the senors in soil with different moisture-levels 
+
+</div>
+
+![alt text](https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1532.jpeg?raw=true)
+<div align=center> 
+
+**Figure 2:** Testing the senor before LoRa gateway was installed in the greenhouse
+
+</div>
+
+![alt text](https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1525.jpeg?raw=true)
+<div align=center> 
+
+**Figure 3:** Process of making Adafruit sensor waterproof
+
+</div>
 
 ![alt text](https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1547.jpeg?raw=true)
 <div align=center> 
 
-**Figure 4:** Adafruit sensor in the greenhouse {align=center}
+**Figure 4:** Adafruit sensor in the greenhouse 
 
 </div>
 
 ![alt text](https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1546.jpeg?raw=true)
+<div align=center>
+
 **Figure 5:** DFRobot sensor in the greenhouse
+
+</div>
