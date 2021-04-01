@@ -51,8 +51,8 @@ Camera and editing by Therese Johansson
 
 ## Figures
 
-![alt text](https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1547.jpeg?raw=true).
-**Figure 4:** Adafruit sensor in the greenhouse 
+![alt text](https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1547.jpeg?raw=true) 
+<center>**Figure 4:** Adafruit sensor in the greenhouse</center>
 
-![alt text(https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1546.jpeg?raw=true)]
+![alt text](https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1546.jpeg?raw=true)
 **Figure 5:** DFRobot sensor in the greenhouse
