@@ -2,6 +2,7 @@
 * [Background](#background)
 * [Project process](#project-process)
 * [Issues](#issues)
+* [Hardware](#hardware)
 
 ## Background
 Last autumn Kalmar Kommun and Fredrik Ahlgren held a presentation over different IoT projects. One project presented was a project that would with the help of IoT solve some problems Kalmar Kommun has when it comes to the watering of plants and gardens around the county. Now they have to drive large distances to check if water is needed in the plants. If this problem is solved it would make Kalmar Kommun able to use their stab more effectively and also the cost for the fuel would go down because of the removal of unnecessary trips. Lnu and Kalmar Energi provide communication over LoRa in Kalmar. Kalmar Kommun has the ambition to use the LoRa network in their work to become a smarter city. Therefore the LoRa technology was used in this project.
@@ -11,3 +12,16 @@ The project started with the research of different types of moisture sensors. Ma
 
 ## Issues
 * **Adafruit sensor:** The sensor is using the i2c bus and circuitPython. The microcontroller from Pycom uses MicroPython. Before the sensor could be used a library was implemented for MicroPythons i2c bus.
+
+* **NVRAM function:** When implementation of the deep sleep function on the Pycom LoPy4 a criterion was that the LoRa device must remember that it has joined a network when waking up. This saves battery by not having to go through the join sequence every time the device wake up. The LoPy4 device has support for this. When implementing this functionality an issue was that the NVRAM function did not work with the deep sleep function. After some time debugging the issue was resolved by downgrading the firmware for the LoPy4 one release version.
+
+* **SSL connection:** The implementation of the TCP server is in python and during the first stages of development, a python script was used as a client to act as the Android application. The implementation of SSL Python-server to Python-client was simple. The problem emerged when implementing the SSL connection using Java. Java is the language used to build the application. Implementing SSL in Java vs Python turned out to be very different. It was a bit harder to figure out the Java approach to SSL. Java uses Keystore and TrustManager to make certification validations and decryptions. It took some time but after extensive research in OpenSSL, keytool, SSL, and certificate formats the issue was solved.
+
+* **LoRa connection:** In the greenhouse, the devices could not connect to the LoRa network provided by Lnu. This issue was solved by configuring a LoRa router and placed that router in the greenhouse.
+
+* **Waterproof box:**  A design of a waterproof box was created using Fusion360 and the plan was to print that design using the 3D printer Lnu provides. The issue emerged when it was time to print that design. The printing time for the box was 1 day and 10 hours. The printing process has to be supervised and due to the printing time that was not an option. The issue was solved by buying waterproof boxes.
+
+## Hardware
+- **Pycom**
+    - LoPy 4
+    - Expansion board 3.1
