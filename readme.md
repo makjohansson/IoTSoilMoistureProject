@@ -87,7 +87,7 @@ Camera and editing by Therese Johansson
 
 **Figure 5:** DFRobot sensor in the greenhouse
 
-<p align="center"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/mSensors.png?raw=true" width="600" height="220"></p>
+<p align="center"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/mSensors.png?raw=true" width="800" height="350"></p>
 <div align=center>
 
 **Figure 6:** Network diagram
