@@ -82,7 +82,7 @@ Camera and editing by Therese Johansson
 
 </div>
 
-<p style="text-align:center;"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1546.jpeg?raw=true" width="400" height="400"></p>
+<p align="center"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1546.jpeg?raw=true" width="400" height="400"></p>
 <div align=center>
 
 **Figure 5:** DFRobot sensor in the greenhouse
