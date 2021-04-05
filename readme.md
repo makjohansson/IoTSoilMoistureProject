@@ -54,28 +54,28 @@ Camera and editing by Therese Johansson
 * All data received from the sensors is saved to a JSON file for future use, visualizing sensor value over a long period.
 
 ## Figures
-<p style="text-align:center;"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1522.jpeg?raw=true" width="400" height="400"></p>
+<p align="center"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1522.jpeg?raw=true" width="400" height="400"></p>
 <div align=center> 
 
 **Figure 1:** Testing the senors in soil with different moisture-levels 
 
 </div>
 
-<p style="text-align:center;"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1532.jpeg?raw=true" width="400" height="420"></p>
+<p align="center"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1532.jpeg?raw=true" width="400" height="420"></p>
 <div align=center> 
 
 **Figure 2:** Testing the senor before LoRa gateway was installed in the greenhouse
 
 </div>
 
-<p style="text-align:center;"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1525.jpeg?raw=true" width="450" height="350"></p>
+<p align="center"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1525.jpeg?raw=true" width="450" height="350"></p>
 <div align=center> 
 
 **Figure 3:** Process of making Adafruit sensor waterproof
 
 </div>
 
-<p style="text-align:center;"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1547.jpeg?raw=true" width="400" height="400"></p>
+<p align="center"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1547.jpeg?raw=true" width="400" height="400"></p>
 <div align=center> 
 
 **Figure 4:** Adafruit sensor in the greenhouse 
