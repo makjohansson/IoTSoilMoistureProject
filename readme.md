@@ -61,28 +61,28 @@ Camera and editing by Therese Johansson
 
 </div>
 
-<p style="text-align:center;"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1532.jpeg?raw=true" width="400" height="440"></p>
+<p style="text-align:center;"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1532.jpeg?raw=true" width="400" height="420"></p>
 <div align=center> 
 
 **Figure 2:** Testing the senor before LoRa gateway was installed in the greenhouse
 
 </div>
 
-<p style="text-align:center;"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1525.jpeg?raw=true" width="400" height="400"></p>
+<p style="text-align:center;"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1525.jpeg?raw=true" width="450" height="350"></p>
 <div align=center> 
 
 **Figure 3:** Process of making Adafruit sensor waterproof
 
 </div>
 
-![alt text](https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1547.jpeg?raw=true)
+<p style="text-align:center;"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1547.jpeg?raw=true" width="400" height="400"></p>
 <div align=center> 
 
 **Figure 4:** Adafruit sensor in the greenhouse 
 
 </div>
 
-![alt text](https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1546.jpeg?raw=true)
+<p style="text-align:center;"><img src="https://github.com/makjohansson/IoTSoilMoistureProject/blob/master/img/IMG_1546.jpeg?raw=true" width="400" height="400"></p>
 <div align=center>
 
 **Figure 5:** DFRobot sensor in the greenhouse
